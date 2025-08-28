@@ -1,4 +1,4 @@
-# Healthcare Translation Web App with Generative AI
+# Healthcare Live Voice Translation Web App with Generative AI
 
 This project provides a GUI-based application that allows users to speak into a microphone. The speech is recognized, translated into English, and displayed in the GUI. The user can also play the translated text as speech using a built-in Text-to-Speech (TTS) functionality.
 
